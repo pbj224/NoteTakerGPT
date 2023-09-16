@@ -1,0 +1,8 @@
+requests==2.31.0
+openai==0.27.8
+pandas==1.5.3
+numpy==1.22.4
+tiktoken==0.3.3
+PyAudio==0.2.13
+keyboard==0.13.5
+Wave==0.0.2
